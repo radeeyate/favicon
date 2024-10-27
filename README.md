@@ -56,9 +56,8 @@ The server listens on port 7000 by default. You can change this by modifying the
 
 ## Future Improvements
 
-* [] Icon Resizing
-* [] Configuration Options
-
+* [ ] Icon Resizing
+* [ ] Configuration Options
 
 ## Contributing
 
